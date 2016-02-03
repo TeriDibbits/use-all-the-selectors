@@ -1,4 +1,5 @@
 html {
+  background-color: #fdf6e3;
 }
 
 body {
@@ -31,15 +32,15 @@ h1 {
 
 #contents {
   color: #93a1a1;
-  }
+}
 
 #favs {
   color: #93a1a1;
-  }
+}
 
 #facts {
   color: #93a1a1;
-  }
+}
 
 #types {
   color: #93a1a1;
@@ -53,7 +54,8 @@ mark {
   background-color: #719e07;
 }
 
-a[rel="external"] {background-color: #2694d8;
+a [rel="external"] {
+  background-color: #2694d8;
 }
 
 .rasp {

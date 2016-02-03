@@ -1,0 +1,22 @@
+html{
+}
+
+body {
+  background-color: #fdf6e3;
+}
+
+header {
+  font-size: 1.5rem;
+}
+
+footer {
+  font-size: 1.5rem;
+}
+
+ul{
+  font-family: sans-serif;
+}
+
+h1{
+  text-transform: uppercase;
+}

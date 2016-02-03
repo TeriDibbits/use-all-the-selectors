@@ -1,4 +1,4 @@
-html{
+html {
 }
 
 body {
@@ -13,64 +13,65 @@ footer {
   font-size: 1.5rem;
 }
 
-ul{
+ul {
   font-family: sans-serif;
 }
 
-h1{
+h1 {
   text-transform: uppercase;
 }
 
-.wrapper{
+.wrapper {
   background-color: #eee8d5;
 }
 
-.dfn{
+.dfn {
   background-color: #b58900;
 }
 
-#contents{
+#contents {
   color: #93a1a1;
   }
 
-#favs{
+#favs {
   color: #93a1a1;
   }
 
-#facts{
+#facts {
   color: #93a1a1;
   }
 
-#types{
+#types {
   color: #93a1a1;
 }
 
-p + strong{
+p + strong {
   color: #fff;
 }
 
-mark{
+mark {
   background-color: #719e07;
 }
 
 a[rel="external"] {background-color: #2694d8;
 }
 
-.rasp{
+.rasp {
   color: #719e47;
 }
-.blue{
+
+.blue {
   color: #2aa198;
 }
 
-.o{
+.o {
   background-color: #657ba3;
 }
 
-.e{
+.e {
   background-color: #586e75;
 }
 
-.t{
+.t {
   background-color: #d04b16;
 }
